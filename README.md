@@ -86,5 +86,5 @@ The repository includes advanced SQL workflows for:
 | Executive Reporting     | SQL-driven KPI dashboards          |
 
 Author
-Taarini Dagar
+Kushagra Yadav
 Strategy • Business Analytics • Product Management • Market Intelligence
